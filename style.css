@@ -19,5 +19,12 @@ margin: 0 16px;
 font-size: 32px; 
 font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+.escola-imagem { width: 50%;
 
+}  
+.escola {
+background-image: linear-gradient(#15D2B0, #7ddbca); 
+color: white;
+display: flex; 
+justify-content: center;}
     
